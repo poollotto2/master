@@ -38,9 +38,7 @@
 
 ## RoadMap
 
-* [📣 Project Roadmap](roadmap/project-roadmap/README.md)
-  * [⏳ Pre & First Phase](roadmap/project-roadmap/pre-and-first-phase.md)
-  * [⌛ Final Phases](roadmap/project-roadmap/final-phases.md)
+* [📣 Project Roadmap](roadmap/project-roadmap.md)
 
 ---
 
